@@ -11,7 +11,7 @@ The Russian string bag is called avoska.
 
 ### An image of avoska
 
- ![avoska hanging from a door handle](http://en.wikipedia.org/wiki/File:Avoska.jpg)
+! [avoska hanging from a door handle](http://en.wikipedia.org/wiki/File:Avoska.jpg)
 
 ## Use of avoska
 
