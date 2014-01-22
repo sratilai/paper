@@ -1,4 +1,4 @@
-rehershal
+rehersal
 =====
 
 # Russian string bag
