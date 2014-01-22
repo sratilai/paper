@@ -1,7 +1,7 @@
 paper
 =====
 
-this is a paper
+# this is a presentation on the Russian string bag, avoska
 
 This paper is about our new project.
 
