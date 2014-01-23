@@ -29,7 +29,7 @@ I would like to write a short article/ essay on our digicoffee initiative to be 
 
 Digital humanities can be defined in at least three different ways as 1) computational methods in humanities research; 2)studies in new media; and 3) IT solutions for humanities, which often refers to e-learning, online collaboration etc.
 
-Some traces of "digital humanities understanding" of cultural texts can be found also in the studies made already in the analogical age. These are, for example:
+Some traces of "digital humanities understanding" of culture and literature can be found also in the studies made already in the analogical age. These are, for example:
 
 A. Markov's article on Pushkin's Eugene Onegin written in 1913 in which he applies statistic analytical tool known as the "Markov chain"
 - [Brian Hayes: First Links in the Markov Chain](http://www.americanscientist.org/libraries/documents/201321152149545-2013-03Hayes.pdf)
