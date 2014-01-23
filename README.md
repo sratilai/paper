@@ -21,7 +21,8 @@ I would like to write a short article/ essay on our digicoffee initiative to be 
 
 # Diginotes
 ## Topics
-1. What is digital humanities (DH)
+1. What is digital humanities (DH) ?
 2. The "filter bubble"
 3. Ongoing projects
 
+### 1. The definition of digital humanities
