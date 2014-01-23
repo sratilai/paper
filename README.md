@@ -27,7 +27,7 @@ I would like to write a short article/ essay on our digicoffee initiative to be 
 
 ### 1. Defining digital humanities
 
-Digital humanities can be defined in at least three different ways as 1) computational methods in humanities research; 2) studies in new media; and 3) IT solutions for humanities, which often refers to e-learning, online collaboration etc.
+Digital humanities can be defined in, at least, three different ways: 1) as computational methods in humanities research; 2) as studies in new media; and 3) as IT solutions for humanities, which often refers to e-learning, online collaboration etc.
 
 Some traces of "digital humanities understanding" of culture and literature can also be found  in the studies conducted already in the analogical age. These are, for example:
 
