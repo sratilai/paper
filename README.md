@@ -20,6 +20,7 @@ The Russian string bag is called avoska.
 I would like to write a short article/ essay on our digicoffee initiative to be published in some academic journal.
 
 # Diginotes
+These are my notes from ASEEES conference 21-24 November, 2013
 ## Topics
 1. What is digital humanities (DH) ?
 2. The "filter bubble"
