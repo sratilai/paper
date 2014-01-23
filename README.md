@@ -37,6 +37,6 @@ A. Markov's article on Pushkin's Eugene Onegin written in 1913 in which he appli
 
 and Vladimir Propp's classical study *The Morphology of the Folktale* from 1928.
 
-### 2 The filter bubble
+### 2. The filter bubble
 
 As we use search engines in order to find useful data/knowledge, our search result is based on an algorithm. Google, for example, uses personally customized algorithm for each user. It is interesting what Matthew Kirschenbaum writes about database- and algorithm-based organization of knowledge and more on this could be added here (reference missing). On the negative side, customization of search results is said to lead to a situation in which, we all live in our own filter bubbles deluded and alone (wording needs to be changed). This, at least, seems to be the argument in Pariser's book *The Filter Bubble* (2011)
