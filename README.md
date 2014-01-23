@@ -33,4 +33,4 @@ Some traces of "digital humanities understanding" of cultural texts can be found
 
 A. Markov's article on Pushkin's Eugene Onegin in which he applies statistic analytical tool known as the "Markov chain"
 - [Brian Hayes: First Links in the Markov Chain](http://www.americanscientist.org/libraries/documents/201321152149545-2013-03Hayes.pdf)
-
+and Vladimir Propp's classical study The Motphology of the Folktale.
