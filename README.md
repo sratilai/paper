@@ -18,3 +18,5 @@ The Russian string bag is called avoska.
 
 
 I would like to write a short article/ essay on our digicoffee initiative to be published in some academic journal.
+
+ # Diginotes
