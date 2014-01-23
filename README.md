@@ -1,7 +1,7 @@
-TEST
+Draft
 =====
 
-# Russian string bag
+# Russian string bag (this is a metaphorical prelude to the essay)
 
 The Russian string bag is called avoska.
 
@@ -21,4 +21,7 @@ I would like to write a short article/ essay on our digicoffee initiative to be 
 
 # Diginotes
 ## Topics
+1. What is digital humanities (DH)
+2. The "filter bubble"
+3. Ongoing projects
 
