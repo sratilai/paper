@@ -25,7 +25,7 @@ I would like to write a short article/ essay on our digicoffee initiative to be 
 2. The "filter bubble"
 3. Ongoing projects
 
-### 1. The definition of digital humanities
+### 1. Defining digital humanities
 
 Digital humanities can be defined in at least three different ways as 1) computational methods in humanities research; 2)studies in new media; and 3) IT solutions for humanities, which often refers to e-learning, online collaboration etc.
 
