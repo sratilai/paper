@@ -36,3 +36,7 @@ A. Markov's article on Pushkin's Eugene Onegin written in 1913 in which he appli
 - [Brian Hayes: First Links in the Markov Chain](http://www.americanscientist.org/libraries/documents/201321152149545-2013-03Hayes.pdf)
 
 and Vladimir Propp's classical study *The Morphology of the Folktale* from 1928.
+
+### 2 The filter bubble
+
+As we use search engines in order to find useful data/knowledge, our search result is based on an algorithm. Google, for example, uses personally customized algorithm for each user. It is interesting what Matthew Kirschenbaum writes about database- and algorithm-based organization of knowledge and more on this could be added heere (reference missing). On the negative side, customization of search results is said to lead to a situation in which, we all evntually live in our own filter bubbles deluded and alone (change working). This, at least, seems to be the argument in Pariser's book *The Filter Bubble* (2011)
