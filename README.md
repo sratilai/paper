@@ -6,10 +6,10 @@ Draft
 The Russian string bag is called avoska.
 
 ## An example
-### A link to avoska wikipedia page
+### Link to avoska wikipedia page
 - [avoska](http://en.wikipedia.org/wiki/String_bag)
 
-### An image of avoska
+### Image of avoska
 
 ![avoska hanging from a door handle](http://upload.wikimedia.org/wikipedia/commons/c/cf/Avoska.jpg)
 
