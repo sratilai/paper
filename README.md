@@ -23,7 +23,7 @@ I would like to write a short article/ essay on our digicoffee initiative to be 
 Here below are my notes from ASEEES conference, which took place in Boston Nov 21-24, 2013. This can be used as the basis for our essay. What other topics there could be?
 ## Topics
 1. What is digital humanities (DH) ?
-2. The "filter bubble"
+2. The "filter bubble" and other interesting concepts
 3. Ongoing projects
 
 ### 1. Defining digital humanities
