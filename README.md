@@ -17,8 +17,13 @@ source: Wiki images
 ## Use of avoska
 
 
-
 I would like to write a short article/ essay on our digicoffee initiative to be published in some academic journal.
+
+
+# Ripaska dancing
+
+![This is good tutorial to start from](http://www.politicsparty.com/images/editor/header/media/2012/russian.gif)
+
 
 # Diginotes
 Here below are my notes from ASEEES conference, which took place in Boston Nov 21-24, 2013. This can be used as the basis for our essay. What other topics there could be?
