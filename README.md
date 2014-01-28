@@ -38,10 +38,10 @@ Digital humanities can be defined in, at least, three different ways: 1) as comp
 
 Some traces of "digital humanities understanding" of culture and literature can also be found  in the studies conducted already in the analogical age. These are, for example:
 
-A. Markov's article on Pushkin's Eugene Onegin, written in 1913, in which he applies his statistic analytical tool known as the "Markov chain"
+A. Markov's article on Pushkin's Eugene Onegin, written in 1913, in which he applies his statistic analytical tool known as the "Markov chain", and Vladimir Propp's classical study *The Morphology of the Folktale* from 1928.
+
 - [Brian Hayes: First Links in the Markov Chain](http://www.americanscientist.org/libraries/documents/201321152149545-2013-03Hayes.pdf)
 
-and Vladimir Propp's classical study *The Morphology of the Folktale* from 1928.
 
 ### 2. Understanding the digital turn
 
