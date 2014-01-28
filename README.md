@@ -22,7 +22,7 @@ I would like to write a short article/ essay on our digicoffee initiative to be 
 
 # Ripaska dancing
 
-![This is good tutorial to start from](http://www.politicsparty.com/images/editor/header/media/2012/russian.gif)
+![This is good tutorial to start with](http://www.politicsparty.com/images/editor/header/media/2012/russian.gif)
 
 
 # Diginotes
