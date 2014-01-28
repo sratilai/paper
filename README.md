@@ -17,7 +17,7 @@ source: Wiki images
 ## Use of avoska
 
 
-I would like to write a short article/ essay on our digicoffee initiative to be published in some academic journal. Hopefully, this project turns from the hopeful but often too empty avoska bag into the dynamic and empowering movement of ripaska dancing.
+I would like to write a short article/ essay on our digicoffee initiative to be published in some academic journal. Hopefully, this project turns from the hopeful but often too empty avoska bag (see above) into the dynamic and empowering movement of ripaska dancing (see below).
 
 
 # Ripaska dancing
