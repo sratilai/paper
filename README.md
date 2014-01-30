@@ -46,3 +46,9 @@ A. Markov's article on Pushkin's Eugene Onegin, written in 1913, in which he app
 ### 2. Understanding the digital turn
 
 As we use search engines in order to find useful data/knowledge, our search result is based on an algorithm. Google, for example, uses personally customized algorithm for each user. It is interesting what Matthew Kirschenbaum writes about database- and algorithm-based organization of knowledge and more on this could be added here (reference missing). On the negative side, customization of search results is said to lead to a situation in which, we all live in our own filter bubbles deluded and alone (wording needs to be changed). This seems to be the argument in Eli Pariser's book *The Filter Bubble* (2011).
+
+#### Importance of free software for research in the digital turn
+
+As @kainu2014 paternally writes
+
+>This development will go on and therefore it is advisable for someone who is interested in learning these techniques to carefully look at the licensing before investing time and effort in learning the technology. Free and open source tools are great in this respect as once you can pick up the skills to use the techonolgy, you soon will find that it needs to be improved for your purposes. In free and open source technology you can learn how the code works, write improvements and then publish them for the wider research community for use and for further development. In addition, free licensing also allows you to teach the technology, apply it in any purpose, including commercial, and to distribute it. Open source research software is not always the easiest and quickest way to get job done, but in the long run they are often worth the time invested.
