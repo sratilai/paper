@@ -45,7 +45,7 @@ A. Markov's article on Pushkin's Eugene Onegin, written in 1913, in which he app
 
 ### 2. Understanding the digital turn
 
-As we use search engines in order to find useful data/knowledge, our search result is based on an algorithm. Google, for example, uses personally customized algorithm for each user. It is interesting what Matthew Kirschenbaum writes about database- and algorithm-based organization of knowledge and more on this could be added here (reference missing). On the negative side, customization of search results is said to lead to a situation in which, we all live in our own filter bubbles deluded and alone (wording needs to be changed). This seems to be the argument in Eli Pariser's book *The Filter Bubble* (2011).
+As we use search engines in order to find useful data/knowledge, our search result is based on an algorithm. Google, for example, uses personally customized algorithm for each user. It is interesting what Lev Manovich writes about database- and algorithm-based organization of knowledge and more on this could be added here (reference missing). On the negative side, customization of search results is said to lead to a situation in which, we all live in our own filter bubbles deluded and alone (wording needs to be changed). This seems to be the argument in Eli Pariser's book *The Filter Bubble* (2011).
 
 #### Importance of free software for research in the digital turn
 
